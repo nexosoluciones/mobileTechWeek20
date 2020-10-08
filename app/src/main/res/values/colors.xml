@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Start Theme Color -->
+    <!-- Light colors -->
+    <color name="colorText">#212121</color>
+    <color name="colorNormalText">#616161</color>
+    <color name="colorBackground">#ffffff</color>
+
+    <!-- Dark colors -->
+    <color name="colorTextNight">#FFFFFF</color>
+    <color name="colorNormalTextNight">#AEAEAE</color>
+    <color name="colorBackgroundNight">#212121</color>
+    <!-- End Theme Color -->
+
+    <!-- Main Colors for Theme-->
+    <color name="colorPrimary">#1f1fff</color>
+    <color name="colorPrimaryDark">#0000ca</color>
+    <color name="colorAccent">#ffe018</color>
+
+    <color name="colorAndroid">#4CAF50</color>
+</resources>

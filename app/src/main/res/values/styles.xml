@@ -1,0 +1,38 @@
+<resources>
+
+    <!-- Light Style-->
+    <style name="LightTheme" parent="Theme.MaterialComponents.DayNight">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="textColor">@color/colorText</item>
+        <item name="normalTextColor">@color/colorNormalText</item>
+        <item name="backgroundColor">@color/colorBackground</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <!-- Dark Style-->
+    <style name="DarkTheme" parent="Theme.MaterialComponents.DayNight">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="textColor">@color/colorTextNight</item>
+        <item name="normalTextColor">@color/colorNormalTextNight</item>
+        <item name="backgroundColor">@color/colorBackgroundNight</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.Rojo" parent="Theme.MaterialComponents.DayNight">
+        <item name="colorPrimary">#c11824</item>
+        <item name="colorPrimaryDark">#c11824</item>
+        <item name="colorAccent">#19c122</item>
+    </style>
+
+    <style name="AppTheme.Verde" parent="Theme.MaterialComponents.DayNight">
+        <item name="colorPrimary">#19c122</item>
+        <item name="colorPrimaryDark">#19c122</item>
+        <item name="colorAccent">#c11824</item>
+    </style>
+</resources>

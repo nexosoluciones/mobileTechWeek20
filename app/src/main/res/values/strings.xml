@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Mobile Tech Week</string>
+    <string name="URL_BASE">http://testing.nexoserver.com.ar/bootcampmobile/</string>
+
+    <!-- Login Activity-->
+    <string name="text_email">Correo Electronico</string>
+    <string name="text_password">Contraseña</string>
+    <string name="title_login">Login de Usuario</string>
+    <string name="text_login">Iniciar Sesion</string>
+    <string name="text_register_now"><i><u>registrate aquí</u></i></string>
+
+    <!-- Register Activity -->
+    <string name="text_register">Registrarse</string>
+    <string name="title_register">Completa los datos para registrarse</string>
+    <string name="text_name">Nombre</string>
+    <string name="text_surname">Apellido</string>
+    <string name="text_repeat_password">Repita su contraseña</string>
+
+    <!-- Event Activity -->
+    <string name="title_event">Lista de Eventos</string>
+
+    <!-- Course Activity -->
+    <string name="title_course">Lista de Curso</string>
+</resources>
